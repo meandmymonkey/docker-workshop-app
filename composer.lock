@@ -16,7 +16,7 @@
             },
             "dist": {
                 "type": "tar",
-                "url": "http://33.33.33.30:8080/dist/pimple-pimple-2019c145fe393923f3441b23f29bbdfaa5c58c4d-zip-4bebf7.tar",
+                "url": "http://33.33.33.30:8002/dist/pimple-pimple-2019c145fe393923f3441b23f29bbdfaa5c58c4d-zip-4bebf7.tar",
                 "reference": "2019c145fe393923f3441b23f29bbdfaa5c58c4d",
                 "shasum": "fc10e2c98c5912254db652532df4cfe83e9c5947"
             },
@@ -64,7 +64,7 @@
             },
             "dist": {
                 "type": "tar",
-                "url": "http://33.33.33.30:8080/dist/psr-log-fe0936ee26643249e916849d48e3a51d5f5e278b-zip-e71523.tar",
+                "url": "http://33.33.33.30:8002/dist/psr-log-fe0936ee26643249e916849d48e3a51d5f5e278b-zip-e71523.tar",
                 "reference": "fe0936ee26643249e916849d48e3a51d5f5e278b",
                 "shasum": "db3801e186633d86e1d9e4e9714732f178e00ae1"
             },
@@ -102,7 +102,7 @@
             },
             "dist": {
                 "type": "tar",
-                "url": "http://33.33.33.30:8080/dist/silex-silex-cb9fd447c168640ae14862cfffa1fa23d3a24fe9-zip-f254a2.tar",
+                "url": "http://33.33.33.30:8002/dist/silex-silex-cb9fd447c168640ae14862cfffa1fa23d3a24fe9-zip-f254a2.tar",
                 "reference": "cb9fd447c168640ae14862cfffa1fa23d3a24fe9",
                 "shasum": "8c0564dd43ec53234232923915583b806065a4dc"
             },
@@ -189,7 +189,7 @@
             },
             "dist": {
                 "type": "tar",
-                "url": "http://33.33.33.30:8080/dist/symfony-debug-189da713c1f8bb03f9184eb87b43ecbc732284ac-zip-413551.tar",
+                "url": "http://33.33.33.30:8002/dist/symfony-debug-189da713c1f8bb03f9184eb87b43ecbc732284ac-zip-413551.tar",
                 "reference": "189da713c1f8bb03f9184eb87b43ecbc732284ac",
                 "shasum": "5d4bd1218231dd9d1909e566f0a70101cec29261"
             },
@@ -244,7 +244,7 @@
             },
             "dist": {
                 "type": "tar",
-                "url": "http://33.33.33.30:8080/dist/symfony-event-dispatcher-8faf5cc7e80fde74a650a36e60d32ce3c3e0457b-zip-880d62.tar",
+                "url": "http://33.33.33.30:8002/dist/symfony-event-dispatcher-8faf5cc7e80fde74a650a36e60d32ce3c3e0457b-zip-880d62.tar",
                 "reference": "8faf5cc7e80fde74a650a36e60d32ce3c3e0457b",
                 "shasum": "da1a2f3f1673d5d17e7f1dff8486d3f2e68492aa"
             },
@@ -301,7 +301,7 @@
             },
             "dist": {
                 "type": "tar",
-                "url": "http://33.33.33.30:8080/dist/symfony-http-foundation-cec87359655f901a11de336576851d3957449947-zip-521554.tar",
+                "url": "http://33.33.33.30:8002/dist/symfony-http-foundation-cec87359655f901a11de336576851d3957449947-zip-521554.tar",
                 "reference": "cec87359655f901a11de336576851d3957449947",
                 "shasum": "1d1e914af98cf269da135f9cd1e961a56435b21d"
             },
@@ -354,7 +354,7 @@
             },
             "dist": {
                 "type": "tar",
-                "url": "http://33.33.33.30:8080/dist/symfony-http-kernel-a8a0cda5d51891f1246959c6bffdc1519ad0742f-zip-95d23f.tar",
+                "url": "http://33.33.33.30:8002/dist/symfony-http-kernel-a8a0cda5d51891f1246959c6bffdc1519ad0742f-zip-95d23f.tar",
                 "reference": "a8a0cda5d51891f1246959c6bffdc1519ad0742f",
                 "shasum": "bf4004f8fc049ae97864d3efd8a3cd9fdf4eb735"
             },
@@ -425,7 +425,7 @@
             },
             "dist": {
                 "type": "tar",
-                "url": "http://33.33.33.30:8080/dist/symfony-routing-de58587ae3fb17fdc802893cf934bbb03e6b8eb5-zip-3e64a1.tar",
+                "url": "http://33.33.33.30:8002/dist/symfony-routing-de58587ae3fb17fdc802893cf934bbb03e6b8eb5-zip-3e64a1.tar",
                 "reference": "de58587ae3fb17fdc802893cf934bbb03e6b8eb5",
                 "shasum": "db2a59b9ea7904ed214f8a4c9febe216dd549590"
             },
@@ -491,7 +491,7 @@
             },
             "dist": {
                 "type": "tar",
-                "url": "http://33.33.33.30:8080/dist/symfony-security-core-3294aea1af045eb67346257d364c3065cdda23b9-zip-448e1d.tar",
+                "url": "http://33.33.33.30:8002/dist/symfony-security-core-3294aea1af045eb67346257d364c3065cdda23b9-zip-448e1d.tar",
                 "reference": "3294aea1af045eb67346257d364c3065cdda23b9",
                 "shasum": "78b092d0cd95096cedc0fe5afd75698eb0cd3e0a"
             },
@@ -553,7 +553,7 @@
             },
             "dist": {
                 "type": "tar",
-                "url": "http://33.33.33.30:8080/dist/symfony-security-csrf-08711832eb9c7b08b513318357391693411e9478-zip-8432a0.tar",
+                "url": "http://33.33.33.30:8002/dist/symfony-security-csrf-08711832eb9c7b08b513318357391693411e9478-zip-8432a0.tar",
                 "reference": "08711832eb9c7b08b513318357391693411e9478",
                 "shasum": "2fc30f117ae66b77fa2dc09cdfdc4a0d8a576f0a"
             },
@@ -607,7 +607,7 @@
             },
             "dist": {
                 "type": "tar",
-                "url": "http://33.33.33.30:8080/dist/symfony-twig-bridge-63b9cc34400dbbd2d3ab85154201666595e9e85f-zip-97916e.tar",
+                "url": "http://33.33.33.30:8002/dist/symfony-twig-bridge-63b9cc34400dbbd2d3ab85154201666595e9e85f-zip-97916e.tar",
                 "reference": "63b9cc34400dbbd2d3ab85154201666595e9e85f",
                 "shasum": "3fb656d264ffc4c943b539ea7552e3f47b27188d"
             },
@@ -678,7 +678,7 @@
             },
             "dist": {
                 "type": "tar",
-                "url": "http://33.33.33.30:8080/dist/twig-twig-8ce37115802e257a984a82d38254884085060024-zip-a0c1e2.tar",
+                "url": "http://33.33.33.30:8002/dist/twig-twig-8ce37115802e257a984a82d38254884085060024-zip-a0c1e2.tar",
                 "reference": "8ce37115802e257a984a82d38254884085060024",
                 "shasum": "839bc23e490062b2deffc156ccf49421dd5d42ab"
             },

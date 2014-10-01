@@ -9,7 +9,7 @@
     ],
     "description": "Dummy project for deployment exercises",
     "repositories": [
-        { "type": "composer", "url": "http://33.33.33.30:8080" },
+        { "type": "composer", "url": "http://33.33.33.30:8002" },
         { "packagist": false }
     ],
     "require": {
