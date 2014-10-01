@@ -1,0 +1,28 @@
+{
+    "name": "meandmymonkey/docker-workshop",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andreas Hucks",
+            "email": "andreas@inputrequired.org"
+        }
+    ],
+    "description": "Dummy project for deployment exercises",
+    "repositories": [
+        { "type": "composer", "url": "http://33.33.33.30:8080" },
+        { "packagist": false }
+    ],
+    "require": {
+        "silex/silex": "~1.2",
+        "twig/twig": "~1.16",
+        "symfony/twig-bridge": "~2.5"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {
+        "psr-0" : {
+            "" : "src/"
+        }
+    }
+}

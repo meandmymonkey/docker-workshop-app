@@ -1,0 +1,23 @@
+
+* {
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: #000;
+}
+
+h1 {
+    font-size: 36px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+p {
+    text-align: center;
+}
+
+body {
+    background-image: url('/img/logo.png');
+    background-size: 459px 261px;
+    background-repeat: no-repeat;
+    background-position: center 200px;
+    background-color: rgb(250, 255, 255);
+}
